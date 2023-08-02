@@ -9,6 +9,7 @@
 - ⚡ Fun fact, i´m quite creative and my ideas won´t stop flowing...
 
 ## Technologies I know and I'm learning
+
 #### Backend
 <p align="left">
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
@@ -32,6 +33,13 @@
 <p align="left">
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/mongodb-original-wordmark.svg" alt="mongoDb" width="60" height="60"/>
+</p>
+
+
+<p align="left">
+<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/git/git-original.svg" alt="git" width="60" height="60"/>
+<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/github/github-original.svg" alt="github" width="60" height="60"/>
+<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/gitlab/gitlab-original.svg" alt="gitlab" width="60" height="60"/>
 </p>
 
 
