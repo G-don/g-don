@@ -38,8 +38,6 @@
 
 <p align="left">
 <img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/git/git-original.svg" alt="git" width="60" height="60"/>
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/github/github-original.svg" alt="github" width="60" height="60"/>
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/gitlab/gitlab-original.svg" alt="gitlab" width="60" height="60"/>
 </p>
 
 
